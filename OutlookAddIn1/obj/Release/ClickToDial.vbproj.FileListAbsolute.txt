@@ -1,0 +1,16 @@
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.dll.config
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.dll
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.pdb
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.xml
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.dll.manifest
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Click To Dial.vsto
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\OutlookAddIn1.Form1.resources
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\OutlookAddIn1.Resources.resources
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\ClickToDial.vbproj.GenerateResource.Cache
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\Click To Dial.dll
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\Click To Dial.xml
+C:\Users\andrey.vasilyev\documents\visual studio 2012\Projects\ClickToDial\OutlookAddIn1\obj\Release\Click To Dial.pdb

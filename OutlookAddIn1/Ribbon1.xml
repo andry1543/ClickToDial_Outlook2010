@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabMail" >
+        <group id="ClickToDial" label="Click To Dial" insertAfterMso="GroupMailNew">
+          <button id="Phone_number" label="Звонок на произвольный номер"
+             screentip="Номер телефона" onAction="On_click_to_dial"
+             imageMso = "Call" size ="large"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+  <contextMenus>
+    <contextMenu idMso="ContextMenuContactCardRecipient">
+      <button id="ClickToCall_W2"
+          label="Позвонить на рабочий телефон"
+          onAction="OnClickToCall_W"/>
+      <button id="ClickToCall_M2"
+          label="Позвонить на мобильный телефон"
+          onAction="OnClickToCall_M"/>
+    </contextMenu>
+    <contextMenu idMso="ContextMenuFlaggedContactItem">
+      <button id="ClickToCall_W4"
+          label="Позвонить на рабочий телефон"
+          onAction="OnClickToCall_W_Contact"/>
+      <button id="ClickToCall_M4"
+          label="Позвонить на мобильный телефон"
+          onAction="OnClickToCall_M_Contact"/>
+    </contextMenu>
+    <contextMenu idMso="ContextMenuContactItem">
+      <button id="ClickToCall_W3"
+          label="Позвонить на рабочий телефон"
+          onAction="OnClickToCall_W_Contact"/>
+      <button id="ClickToCall_M3"
+          label="Позвонить на мобильный телефон"
+          onAction="OnClickToCall_M_Contact"/>
+    </contextMenu>
+  </contextMenus>
+</customUI>
+
